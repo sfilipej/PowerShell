@@ -1,0 +1,17 @@
+User Input Settings:
+  ACTION:                        Uninstall
+  CONFIGURATIONFILE:             C:\Program Files\Microsoft SQL Server\140\Setup Bootstrap\Log\20230621_150331\ConfigurationFile.ini
+  ENU:                           true
+  FEATURES:                      SQLENGINE, BROWSER, WRITER
+  HELP:                          false
+  IACCEPTPYTHONLICENSETERMS:     false
+  IACCEPTROPENLICENSETERMS:      false
+  INDICATEPROGRESS:              false
+  INSTANCEID:                    <empty>
+  INSTANCENAME:                  MSSQLSERVER
+  MRCACHEDIRECTORY:              
+  QUIET:                         false
+  QUIETSIMPLE:                   false
+  SUPPRESSPRIVACYSTATEMENTNOTICE: false
+  UIMODE:                        Normal
+  X86:                           false
